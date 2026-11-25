@@ -1,0 +1,7 @@
+
+earthengine-api
+geemap
+xarray
+xee
+pandas
+matplotlib
